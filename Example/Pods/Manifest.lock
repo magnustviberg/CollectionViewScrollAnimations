@@ -1,0 +1,16 @@
+PODS:
+  - CollectionViewScrollAnimations (0.1.0)
+
+DEPENDENCIES:
+  - CollectionViewScrollAnimations (from `../`)
+
+EXTERNAL SOURCES:
+  CollectionViewScrollAnimations:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CollectionViewScrollAnimations: c0ca22ad75f56e7e2193f54d86d533e06c528245
+
+PODFILE CHECKSUM: ac4ea04f2174936524b8313b6ce14ed782906f83
+
+COCOAPODS: 1.2.1

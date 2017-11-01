@@ -1,0 +1,22 @@
+{
+  "name": "CollectionViewScrollAnimations",
+  "version": "0.1.0",
+  "summary": "A short description of CollectionViewScrollAnimations.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/magnustviberg/CollectionViewScrollAnimations",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "magnustviberg": "magnustviberg@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/magnustviberg/CollectionViewScrollAnimations.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CollectionViewScrollAnimations/Classes/**/*"
+}
