@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CollectionViewScrollAnimations_Example' do
+  pod 'CollectionViewScrollAnimations', :path => '../'
+
+  target 'CollectionViewScrollAnimations_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
