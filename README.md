@@ -20,6 +20,15 @@ it, simply add the following line to your Podfile:
 pod 'CollectionViewScrollAnimations'
 ```
 
+## Getting started
+Import the pod
+```ruby
+import CollectionViewScrollAnimations
+```
+###  Animtate UIView
+
+###  Animtate NSLayoutConstraint
+
 ## Author
 
 magnustviberg, magnustviberg@gmail.com
