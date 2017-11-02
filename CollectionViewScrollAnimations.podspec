@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CollectionViewScrollAnimations'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CollectionViewScrollAnimations.'
+  s.summary          = 'Animations for UIView while scrolling in a collectionView'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Animations for UIView while scrolling in a collectionView. This pod contains functions that will make fading views and animating changes in constaints lengths easy and smooth.
                        DESC
 
   s.homepage         = 'https://github.com/magnustviberg/CollectionViewScrollAnimations'
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+    s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
